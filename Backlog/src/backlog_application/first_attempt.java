@@ -9,7 +9,9 @@ import java.io.BufferedReader;
 
 
 public class first_attempt 
-{
+{	// This is the first attempt at the backlog application
+	
+	// Need to fix the gameChooser method to make sure no duplicates are needed
 	public static ArrayList<String> gameReader(File f)
 	{
 		// This function takes the file from main and adds all games in the file into an array list to be returned to main
